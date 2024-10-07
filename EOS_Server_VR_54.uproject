@@ -49,6 +49,17 @@
 				"Mac",
 				"IOS"
 			]
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"Mac",
+				"IOS"
+			]
 		}
 	],
 	"TargetPlatforms": [
