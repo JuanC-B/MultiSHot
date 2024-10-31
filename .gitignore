@@ -5,6 +5,7 @@ deriveddatacache/
 .vs/
 build/
 intermediate/
+plugins/
 PACKPLUGIN/
 COMPPLUGIN/
 saved/
