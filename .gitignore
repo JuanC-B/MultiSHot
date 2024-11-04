@@ -13,3 +13,6 @@ saved/
 *.sln
 *.xlsx
 Plugins/
+
+# Built data for maps
+*_BuiltData.uasset
