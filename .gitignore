@@ -16,3 +16,5 @@ Plugins/
 
 # Built data for maps
 *_BuiltData.uasset
+/Plugins
+/Plugins
